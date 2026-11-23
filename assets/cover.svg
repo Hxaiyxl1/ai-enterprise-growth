@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title">
-  <title id="title">Enterprise Growth Skills</title>
+  <title id="title">AI Enterprise Growth PPT</title>
   <rect width="1200" height="320" rx="24" fill="#101d2a"/>
   <path d="M850 270V55M920 270V55M990 270V55M1060 270V55M1130 270V55M820 100h340M820 155h340M820 210h340M820 265h340" stroke="#304251"/>
   <path d="M850 240l70-42 70 13 70-76 70-40" fill="none" stroke="#a4e7ba" stroke-width="4"/>
   <g fill="#a4e7ba"><circle cx="850" cy="240" r="6"/><circle cx="920" cy="198" r="6"/><circle cx="990" cy="211" r="6"/><circle cx="1060" cy="135" r="6"/><circle cx="1130" cy="95" r="6"/></g>
   <text x="64" y="91" fill="#a4e7ba" font-family="monospace" font-size="17" letter-spacing="4">FIELD RESEARCH / PRODUCT CONTENT</text>
-  <text x="64" y="170" fill="#f3f7f5" font-family="sans-serif" font-weight="700" font-size="58">Enterprise Growth Skills</text>
-  <text x="66" y="224" fill="#c1d2d9" font-family="sans-serif" font-size="24">Market research and product presentation for hardware teams</text>
+  <text x="64" y="170" fill="#f3f7f5" font-family="sans-serif" font-weight="700" font-size="58">AI Enterprise Growth PPT</text>
+  <text x="66" y="224" fill="#c1d2d9" font-family="sans-serif" font-size="24">Evidence-based research and executive presentations</text>
 </svg>
