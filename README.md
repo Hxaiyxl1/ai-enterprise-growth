@@ -2,7 +2,7 @@
   <img src="assets/cover.svg" alt="Enterprise Growth Skills — 硬件市场调研与产品展示">
 </p>
 
-# 企业增长 Skills
+# AI 企业增长汇报 PPT
 
 企业增长陪跑团队将增长诊断、竞品研究和产品表达中的工作方法，沉淀为两套面向硬件企业的 Codex Skills。从市场证据、客户反馈到产品规格和应用场景，每项交付都能回到可核查的资料。
 
@@ -12,7 +12,7 @@
 
 | Skill | 适合什么时候用 | 能交付什么 |
 | --- | --- | --- |
-| [硬件市场雷达](skills/hardware-market-radar/SKILL.md) | 做竞品调研、跟踪行业动态、复核价格快照或整理客户评价 | 有证据索引的调研报告、复查底表、口碑词云、可编辑汇报 PPT |
+| [企业增长情报 PPT](skills/hardware-market-radar/SKILL.md) | 做竞品调研、跟踪行业动态、复核价格快照或整理客户评价 | 有证据索引的调研报告、复查底表、口碑词云、可编辑汇报 PPT |
 | [硬件产品展示页](skills/hardware-product-showcase/SKILL.md) | 已有产品资料，需要做官网产品页、目录页或展会落地页 | 可本地打开的 HTML，附工业机器人页面模板 |
 
 市场雷达可单独完成调研。需要制作展示页时，可以把调研中发现的选型维度和客户关注点交给展示页 Skill，再用自家确认的产品资料填充规格和方案。
